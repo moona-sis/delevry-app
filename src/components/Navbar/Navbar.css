@@ -1,0 +1,22 @@
+.navbar-container{
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+    position: fixed;
+    height: 8vh;
+    top: 0;
+    z-index: 1;
+    border-bottom-style: solid ;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    
+}
+.nav-item{
+    padding: 0px 15px;
+}
+
+
+.nav-logo{
+    font-weight: 600;
+    
+}

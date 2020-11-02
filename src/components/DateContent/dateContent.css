@@ -1,0 +1,9 @@
+.date{
+    padding-left:  70px;
+    margin-top: 30px;
+}
+.dater{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}

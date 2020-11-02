@@ -1,0 +1,9 @@
+.delevry-side-container{
+    min-height: 200vh;
+    height: fit-content;
+    background-color: #f0f3f7;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
